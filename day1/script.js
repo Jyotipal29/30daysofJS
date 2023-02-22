@@ -56,28 +56,6 @@ function checkPassMatch(input1, input2) {
 //event listners
 form.addEventListener("submit", function (e) {
   e.preventDefault();
-  //   if (username.value === "") {
-  //     showError(username, "username is required");
-  //   } else {
-  //     showSuccess(username);
-  //   }
-  //   if (email.value === "") {
-  //     showError(email, "email is required");
-  //   } else if (!isValidEmail(email.value)) {
-  //     showError(email, "email is not valid");
-  //   } else {
-  //     showSuccess(email);
-  //   }
-  //   if (password.value === "") {
-  //     showError(password, "password is required");
-  //   } else {
-  //     showSuccess(password);
-  //   }
-  //   if (cnfPass.value === "") {
-  //     showError(cnfPass, "confirm password is required");
-  //   } else {
-  //     showSuccess(cnfPass);
-  //   }
 
   checkRequired([username, email, password, cnfPass]);
   checkLength(username, 3, 20);
