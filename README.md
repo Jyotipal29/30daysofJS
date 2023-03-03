@@ -5,7 +5,7 @@ Welcome to my 30 Days of JavaScript Challenge repository! In this challenge, I w
  # About the Challenge
 This challenge is a great way to refresh your JavaScript fundamentals and explore the latest techniques and trends in JavaScript development. Whether you're a beginner or an experienced developer, there's always something new to learn in JavaScript. By taking on this challenge, you will:
 
- 1.  Build 30 mini projects using JavaScript.
+1.  Build 30 mini projects using JavaScript.
 2. Learn new JavaScript concepts and techniques.
 3.  Gain experience with JavaScript libraries and frameworks.
 4.  Improve your problem-solving skills.
